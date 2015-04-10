@@ -1,0 +1,13 @@
+{
+  "name": "expressjs-router-example",
+  "version": "0.0.1",
+  "private": true,
+  "description": "expressjs-router-example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jincod/expressjs-router-example.git"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
